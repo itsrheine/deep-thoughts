@@ -17,3 +17,5 @@ export const QUERY_THOUGHTS = gql`
     }
   }
 `;
+
+module.exr
